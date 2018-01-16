@@ -28,3 +28,4 @@ anupriya, anupriya@hakunamatata.in
 
 BlinkLabel is available under the MIT license. See the LICENSE file for more info.
 # BlinkLabel
+# BlinkLabel
